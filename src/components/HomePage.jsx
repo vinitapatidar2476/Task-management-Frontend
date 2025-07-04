@@ -46,7 +46,7 @@ export const HomePage = () => {
                 style={{ fontSize: "1.2rem", color: "#4e4e4e" }}
               >
                 Welcome to <strong>TaskMaster Pro</strong> — your go-to solution
-                for powerful and seamless task management.
+                for powerful and seamless Task Management.
               </motion.p>
               <motion.div
                 initial={{ opacity: 0 }}
